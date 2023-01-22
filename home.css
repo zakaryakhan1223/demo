@@ -1,0 +1,413 @@
+body {
+  padding: 0;
+  margin: 0;
+  
+}
+.mainHeader {
+  background-color: rgb(192, 81, 81);
+  width: 100vw;
+  height: 60px;
+  position: fixed;
+  text-decoration: none;
+  
+  
+}
+.logo {
+  margin-top: 19px;
+  height: 22px;
+  width: 49px;
+  margin-left: 74px;
+}
+.link {
+  float: right;
+  margin-right: 145px;
+  padding: 5px;
+  margin-top: 19px;
+  font-size: 16px;
+}
+
+.link a {
+  color: rgb(38, 37, 37);
+  padding: 25px;
+  text-decoration-line: none;
+}
+.link :hover {
+  color: rgb(124, 107, 234);
+}
+
+.body1 h1 {
+  margin-left: 25%;
+  font-size: 55px;
+}
+.body1 p {
+  margin-left: 30%;
+}
+.body1 pre {
+  margin-left: 45%;
+}
+.body1 button {
+  margin-left: 45%;
+  width: 175px;
+  height: 43px;
+  background-color: rgb(207, 117, 117);
+  color: white;
+  border: 0px solid rgb(212, 118, 108);
+  border-radius: 2px;
+}
+.body1 button:hover {
+  cursor: pointer;
+  background-color: rgb(238, 212, 212);
+  color: rgb(8, 8, 8);
+}
+.body2 {
+   margin-left: 234px;
+  
+  
+}
+.body3 {
+  padding-top: 84px;
+  padding-left: 123px;
+}
+.body3 h1 {
+  padding-left: 185px;
+  font-size: 38px;
+  float: left;
+  color: rgb(41, 38, 38);
+}
+.body3 h5 {
+  padding-left: 185px;
+  color: rgb(7, 5, 5);
+}
+.body3 pre {
+  padding-left: 185px;
+  color: rgb(66, 63, 63);
+  font-size: 16px;
+}
+.beauty{
+    float: left;
+    padding: 219px;
+
+}
+.comfortImg {
+padding-left: 34px;
+padding-top: 89px;
+}
+.beauty h3{
+    font-size: 29px;
+}
+.beauty h4{
+    font-size: 17px;
+    color: rgb(80, 79, 79)
+}
+.beauty p{
+    font-size: 13pxpx;
+    color: rgb(80, 79, 79);
+}
+
+
+.image4 {
+  float: right;
+  margin-right: 12px;
+  padding-right: 13px;
+  margin-top: 14px;
+  padding-top: 111px;
+}
+.body6{
+    padding-top: 95px;
+    margin: 56px;
+}
+.feed {
+  font-size: 26px;
+  color: rgb(70, 68, 68);
+  
+  padding-left: 43%;
+}
+.src4{
+    padding-left: 185px;
+    margin: 23px;
+    margin-top: 53px;
+
+    
+    
+    
+  
+    
+}
+
+
+
+.btn2 button {
+  width: 134px;
+  height: 35px;
+  background-color: rgb(205, 91, 91);
+  color: aliceblue;
+  border: none;
+  border-radius: 3px;
+}
+.btn2 {
+  padding-left: 43%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+.btn2 :hover {
+  cursor: pointer;
+  background-color: rgb(212, 154, 140);
+  color: rgb(8, 8, 8);
+}
+.contactUsSection {
+  width: 100%;
+  /* align-items: center;    */
+  display: flex;
+  justify-content: center;
+  padding-top: 66px;
+}
+
+.form h2 {
+  font-size: 54px;
+}
+.form p {
+  font-size: 16px;
+}
+
+.email-section{
+    margin-right: 113px;
+}
+.tabel label {
+  padding: 5px;
+  margin: 5px;
+}
+.tabel input {
+  padding: 16px;
+  width: 400px;
+  background-color: #e3e3e3;
+  border: none;
+  color: rgb(34, 32, 32);
+}
+.msg {
+  height: 48px;
+  /* padding: 16px 56px 16px 16px; */
+}
+.btn3 button {
+  width: 165px;
+  height: 44px;
+}
+.btn3 button {
+  margin-bottom: 18px;
+  background-color: rgb(212, 62, 62);
+  color: aliceblue;
+  border: none;
+  border-radius: 5px;
+}
+.btn3 button:hover {
+  cursor: pointer;
+  background-color: rgb(223, 139, 139);
+  color: white;
+}
+.full img {
+  width: 100%;
+  height: 400px;
+}
+.fotter {
+  width: 25%;
+  display: inline-block;
+}
+
+/* .fotterlinks{
+      float: left;
+      margin-right: 233px;
+} */
+.link2 img {
+  width: 100%;
+}
+ .img22{
+    padding-left: 44px;
+}
+.img33{
+    padding-left: 44px;   
+} 
+.dowonFooter {
+  height: 300px;
+  width: 100%;
+  /* background-color: black; */
+  /* padding-left: 50px; */
+  /* padding-right: 50px; */
+  display: flex;
+}
+.addressSection {
+  width: 30%;
+  height: 300px;
+  /* background-color: blue; */
+padding-left: 53px;
+}
+.addressSection img{
+    padding-top: 53px;
+    height: 30px;
+    width: 30px;
+}
+.addressSection address{
+    color: rgb(98, 96, 96);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 11px;
+}
+.addressSection h3{
+    color: rgb(37, 36, 36);
+}
+.contactSection {
+  width: 30%;
+  height: 300px;
+  /* background-color: red; */
+}
+.contactSection address{
+    color: rgb(98, 98, 98);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 11px;
+}
+.contactSection h2{
+    color: rgb(30, 29, 29);
+}
+.newsLetterSection {
+  width: 40%;
+  height: 300px;
+   padding-left: 50px;
+  padding-right: 50px;
+}
+.newsLetterSection h2{
+    color: rgb(38, 37, 37);
+}
+.comfort img{
+  transition-property: width;
+  transition: all 0.3s;
+}
+.comfort img:hover{
+  border-radius: 145px;
+}
+#sidebarmenu{
+  position: fixed;
+  top: 0px;
+  height: 50%;
+  width: 250px;
+  margin-top: 60px;background-color: #3498db;
+  transform: translatex(-250px);
+  transition: transform 550ms ease-in-out
+}
+.menue{
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+  
+}
+.menue li a{
+  text-decoration: none;
+  display: block;
+  padding: 25px;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-size: 20px;
+  color: white;
+
+}
+.menue li{
+  color: white;
+  border-bottom: 1px solid white;
+}
+
+.lable{
+width: 20px;
+height: 10px;
+position: absolute;
+z-index: 20;
+top: 22px;
+left: 15px;
+cursor: pointer;
+}
+.sence{
+  height: 4px;
+  background-color: rgb(250, 241, 241);
+  transition: all 0.3s;
+}
+.sence.middle,
+.sence.bottom{
+  margin-top: 3px;
+}
+
+#sidebar:checked~#sidebarmenu{
+  transform: translateX(0px);
+}
+
+#sidebarmenu{
+  height: 50%;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 250px;
+  margin-top: 60px;
+  background-color: #2980b9;
+  transform: translateX(-250px);
+  transition: transform 250ms ease-in-out
+  
+
+}
+.menu{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.sidebaricon{
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  z-index: 20;
+  top: 22px;
+  left: 15px;
+  cursor: pointer;
+  
+}
+
+.menu li{
+  color: white;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.10);
+}
+.menu li a{
+  color: white;
+  display: block;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 25px;
+
+}
+.menu li a:hover{
+  color: rgb(201, 247, 235);
+  
+}
+#opensidebar:checked~#sidebarmenu{
+  transform: translateX(0px);
+
+}
+
+.spinner{
+  height: 4px;
+  background-color: rgb(250, 241, 241);
+  transition: all 0.3s;
+  
+}
+.spinner.middle,
+.spinner.bottom{
+  margin-top: 3px;
+  
+}
+#opensidebar{
+  margin: -12px;
+
+} 
+
+
+
+.contavt{
+  background-color: rgb(207, 200, 200);
+  height: 100vh;
+  width: 100%;
+  padding-top: 80px;
+}
+.src4 img:hover{
+  transform: scale(1.2);
+}
